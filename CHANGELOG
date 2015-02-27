@@ -1,0 +1,14 @@
+==========
+Change Log
+==========
+
+v0.1
+====
+
+* Initial release.
+* Created ``godfrey.wsgi_utils.BetterDebugMixin``.
+* Created ``godfrey.error_handlers``.
+
+.. Note::
+
+   This is very alpha-quality prototype stuff.
